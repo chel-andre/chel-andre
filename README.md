@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+<img src="https://raw.githubusercontent.com/chel-andre/chel-andre/main/img/hi.gif" alt="HIIIIIIIIIIII" align="center">
+</div>
 
 <!--
 **chel-andre/chel-andre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
